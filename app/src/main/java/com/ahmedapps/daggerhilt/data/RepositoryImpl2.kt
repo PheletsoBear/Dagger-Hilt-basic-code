@@ -5,9 +5,6 @@ import com.ahmedapps.daggerhilt.R
 import com.ahmedapps.daggerhilt.domain.repository.Repository
 import javax.inject.Inject
 
-/**
- * @author Android Devs Academy (Ahmed Guedmioui)
- */
 class RepositoryImpl2 @Inject constructor(
     private val api: SomeApi2,
     private val application: Application

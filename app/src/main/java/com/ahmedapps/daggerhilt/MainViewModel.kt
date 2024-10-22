@@ -8,9 +8,6 @@ import kotlinx.coroutines.launch
 import javax.inject.Inject
 import javax.inject.Named
 
-/**
- * @author Android Devs Academy (Ahmed Guedmioui)
- */
 @HiltViewModel
 class MainViewModel @Inject constructor(
     @Named("api1") private val repository: Repository,
