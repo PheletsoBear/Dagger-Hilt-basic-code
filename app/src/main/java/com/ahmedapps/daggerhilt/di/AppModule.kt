@@ -15,9 +15,6 @@ import retrofit2.create
 import javax.inject.Named
 import javax.inject.Singleton
 
-/**
- * @author Android Devs Academy (Ahmed Guedmioui)
- */
 @Module
 @InstallIn(SingletonComponent::class)
 object AppModule {

@@ -1,0 +1,367 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.compose.material3:material3:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/232dcefbfd2fb081e7a7c744af040bec/transformed/material3-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e7c8218292dbe86add9074f2cffdef52/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/b512d383cab1af3b72fd24cee2eb9e57/transformed/navigation-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/6bf0f991aa4a697d49ab6dba835ee558/transformed/material-ripple-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/9e6874326058fef490eeab2c7e62fb52/transformed/material-icons-core-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/618c9a10b153ddc3242322f90ce29f29/transformed/material-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/52ee42d2ba29438e6e1c15a178109f08/transformed/animation-core-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e297ddde179c20d9703ca7cffbd57925/transformed/animation-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/8be5d128c41ae8cb2f982e171bf8e199/transformed/foundation-layout-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/4d0de03240c55ea3c35d4bfd770a0a4f/transformed/foundation-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/07321aa066d39c2523790a345fbf899b/transformed/ui-tooling-data-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/72e3f398fed238178604e7698d615d1e/transformed/ui-unit-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1e1c54cc0e4418161ec7f5f2a8ea34ab/transformed/ui-geometry-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/c895a6577f1eb940096213911a4a1dc6/transformed/ui-util-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/25af6e9096a320e8979c4013b805c9d3/transformed/ui-text-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/565a4ce3010ff43fb0717a63c97dc953/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/7d9472bd8362024df5202af30b532459/transformed/ui-graphics-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/486172d3ffa7223c8837e8d7b6a60cb3/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.48] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1e49849e190b383bd16bca2efc228eff/transformed/hilt-android-2.48/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/213a81d9c0e46a553a2868f7093ed256/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/56cf2259479ed5e5d0fa65f844fdb435/transformed/activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/615ebc192f47e6e399941dbeed6ea95e/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/a0b2d98f305bb61faf0988ea1046c5e8/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/2fdcbb7cbb020f7e69c4cb2f821c32c7/transformed/activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/d6a8eb7cdc755f0177641c291b4ac606/transformed/activity-compose-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/d39be2dfc436e2c1ddcfa926e1dede55/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/5d7a8a23942016890bdf08befc8c373c/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/836f24420c407432c47d6bdf852dd923/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/f28752f4ecb816bc44d135cb99952e69/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ca811e353de142651fe29a128ad41481/transformed/navigation-common-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/47a4cc5e430932e3b3ac9bc494a8bf88/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/90bfc1461bdea18cbef4654eea8bbb1f/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/10a57489de79c4871c61778bd38e68ad/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/083ea57c823dde084cd1656fcca7cea0/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/7648cd7d9d544666c572aead96cbe170/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/6123e549652d4e79d4e78423a4355d53/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/240e8716f67ebed0fda8707959f23977/transformed/ui-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e3523356466329d2a0981073cf943346/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/75001f608ce6803f6ac5b89d4d5f4a2d/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/c5b7a7df5db669d457fb1f9626dd2ee0/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/11a6ed73285c05a2d9fca0ab638841c6/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/52ad14cb46ab57576345e58d157f9787/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/5bf99d4cacd7778a50564af67e457dc5/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/cfe917cb18ebec38674cfa6cf5813172/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ac3df512af9e351ad9ad8352004d062c/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/02828ad24022b0b1d2c4e8b763b33be0/transformed/runtime-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/bd2ce1d7cc56f392f61e44afd757159c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/a034821b300fc44dea7c6c3058a48005/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/df569cedd88172e024f2f0caf0be9cc3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/f50cac7ab2091c5fff99f853f8c2eec9/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/4530ea98cb37b316dda574ef3552bbe9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/96be9504daf53be991bc193117e9f7cf/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:7:5-29:19
+INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/bd2ce1d7cc56f392f61e44afd757159c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/bd2ce1d7cc56f392f61e44afd757159c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/df569cedd88172e024f2f0caf0be9cc3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/df569cedd88172e024f2f0caf0be9cc3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:16:9-48
+	android:dataExtractionRules
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:8:9-28
+activity#com.ahmedapps.daggerhilt.MainActivity
+ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/232dcefbfd2fb081e7a7c744af040bec/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/232dcefbfd2fb081e7a7c744af040bec/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e7c8218292dbe86add9074f2cffdef52/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.1.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e7c8218292dbe86add9074f2cffdef52/transformed/hilt-navigation-compose-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/b512d383cab1af3b72fd24cee2eb9e57/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/b512d383cab1af3b72fd24cee2eb9e57/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/6bf0f991aa4a697d49ab6dba835ee558/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/6bf0f991aa4a697d49ab6dba835ee558/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/9e6874326058fef490eeab2c7e62fb52/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/9e6874326058fef490eeab2c7e62fb52/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/618c9a10b153ddc3242322f90ce29f29/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/618c9a10b153ddc3242322f90ce29f29/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/52ee42d2ba29438e6e1c15a178109f08/transformed/animation-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/52ee42d2ba29438e6e1c15a178109f08/transformed/animation-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e297ddde179c20d9703ca7cffbd57925/transformed/animation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e297ddde179c20d9703ca7cffbd57925/transformed/animation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/8be5d128c41ae8cb2f982e171bf8e199/transformed/foundation-layout-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/8be5d128c41ae8cb2f982e171bf8e199/transformed/foundation-layout-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/4d0de03240c55ea3c35d4bfd770a0a4f/transformed/foundation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/4d0de03240c55ea3c35d4bfd770a0a4f/transformed/foundation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/07321aa066d39c2523790a345fbf899b/transformed/ui-tooling-data-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/07321aa066d39c2523790a345fbf899b/transformed/ui-tooling-data-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/72e3f398fed238178604e7698d615d1e/transformed/ui-unit-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/72e3f398fed238178604e7698d615d1e/transformed/ui-unit-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1e1c54cc0e4418161ec7f5f2a8ea34ab/transformed/ui-geometry-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1e1c54cc0e4418161ec7f5f2a8ea34ab/transformed/ui-geometry-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/c895a6577f1eb940096213911a4a1dc6/transformed/ui-util-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/c895a6577f1eb940096213911a4a1dc6/transformed/ui-util-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/25af6e9096a320e8979c4013b805c9d3/transformed/ui-text-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/25af6e9096a320e8979c4013b805c9d3/transformed/ui-text-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/565a4ce3010ff43fb0717a63c97dc953/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/565a4ce3010ff43fb0717a63c97dc953/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/7d9472bd8362024df5202af30b532459/transformed/ui-graphics-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/7d9472bd8362024df5202af30b532459/transformed/ui-graphics-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/486172d3ffa7223c8837e8d7b6a60cb3/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.1.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/486172d3ffa7223c8837e8d7b6a60cb3/transformed/hilt-navigation-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.48] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1e49849e190b383bd16bca2efc228eff/transformed/hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.48] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1e49849e190b383bd16bca2efc228eff/transformed/hilt-android-2.48/AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/213a81d9c0e46a553a2868f7093ed256/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/213a81d9c0e46a553a2868f7093ed256/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/56cf2259479ed5e5d0fa65f844fdb435/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/56cf2259479ed5e5d0fa65f844fdb435/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/615ebc192f47e6e399941dbeed6ea95e/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/615ebc192f47e6e399941dbeed6ea95e/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/a0b2d98f305bb61faf0988ea1046c5e8/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/a0b2d98f305bb61faf0988ea1046c5e8/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/2fdcbb7cbb020f7e69c4cb2f821c32c7/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/2fdcbb7cbb020f7e69c4cb2f821c32c7/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/d6a8eb7cdc755f0177641c291b4ac606/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/d6a8eb7cdc755f0177641c291b4ac606/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/d39be2dfc436e2c1ddcfa926e1dede55/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/d39be2dfc436e2c1ddcfa926e1dede55/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/5d7a8a23942016890bdf08befc8c373c/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/5d7a8a23942016890bdf08befc8c373c/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/836f24420c407432c47d6bdf852dd923/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/836f24420c407432c47d6bdf852dd923/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/f28752f4ecb816bc44d135cb99952e69/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/f28752f4ecb816bc44d135cb99952e69/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ca811e353de142651fe29a128ad41481/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ca811e353de142651fe29a128ad41481/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/47a4cc5e430932e3b3ac9bc494a8bf88/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/47a4cc5e430932e3b3ac9bc494a8bf88/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/90bfc1461bdea18cbef4654eea8bbb1f/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/90bfc1461bdea18cbef4654eea8bbb1f/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/10a57489de79c4871c61778bd38e68ad/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/10a57489de79c4871c61778bd38e68ad/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/083ea57c823dde084cd1656fcca7cea0/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/083ea57c823dde084cd1656fcca7cea0/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/7648cd7d9d544666c572aead96cbe170/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/7648cd7d9d544666c572aead96cbe170/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/6123e549652d4e79d4e78423a4355d53/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/6123e549652d4e79d4e78423a4355d53/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/240e8716f67ebed0fda8707959f23977/transformed/ui-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/240e8716f67ebed0fda8707959f23977/transformed/ui-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e3523356466329d2a0981073cf943346/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e3523356466329d2a0981073cf943346/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/75001f608ce6803f6ac5b89d4d5f4a2d/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/75001f608ce6803f6ac5b89d4d5f4a2d/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/c5b7a7df5db669d457fb1f9626dd2ee0/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/c5b7a7df5db669d457fb1f9626dd2ee0/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/11a6ed73285c05a2d9fca0ab638841c6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/11a6ed73285c05a2d9fca0ab638841c6/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/52ad14cb46ab57576345e58d157f9787/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/52ad14cb46ab57576345e58d157f9787/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/5bf99d4cacd7778a50564af67e457dc5/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/5bf99d4cacd7778a50564af67e457dc5/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/cfe917cb18ebec38674cfa6cf5813172/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/cfe917cb18ebec38674cfa6cf5813172/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ac3df512af9e351ad9ad8352004d062c/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ac3df512af9e351ad9ad8352004d062c/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/02828ad24022b0b1d2c4e8b763b33be0/transformed/runtime-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/02828ad24022b0b1d2c4e8b763b33be0/transformed/runtime-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/bd2ce1d7cc56f392f61e44afd757159c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/bd2ce1d7cc56f392f61e44afd757159c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/a034821b300fc44dea7c6c3058a48005/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/a034821b300fc44dea7c6c3058a48005/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/df569cedd88172e024f2f0caf0be9cc3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/df569cedd88172e024f2f0caf0be9cc3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/f50cac7ab2091c5fff99f853f8c2eec9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/f50cac7ab2091c5fff99f853f8c2eec9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/4530ea98cb37b316dda574ef3552bbe9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/4530ea98cb37b316dda574ef3552bbe9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/96be9504daf53be991bc193117e9f7cf/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.48] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/96be9504daf53be991bc193117e9f7cf/transformed/dagger-lint-aar-2.48/AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pheletso.mashalane/Documents/Sofware_Engineering/Dagger-Hilt-Dependency-Injection/app/src/main/AndroidManifest.xml
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/dd0c7306ff2292ef1a99ca49aa74d7e5/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/1d39637050f2abfd90ba4f3438a72cd1/transformed/ui-tooling-1.4.0/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/df569cedd88172e024f2f0caf0be9cc3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/df569cedd88172e024f2f0caf0be9cc3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/81f18150aa435976649c301313c89a00/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/0f8cbe839ea870e2777a9b4acc25ae49/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.ahmedapps.daggerhilt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.ahmedapps.daggerhilt.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/ab9a44d1aa9e3603c816fbfaae87181b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/pheletso.mashalane/.gradle/caches/8.9/transforms/e0a9c9d34df4545ca73d1b8e4a20c246/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
