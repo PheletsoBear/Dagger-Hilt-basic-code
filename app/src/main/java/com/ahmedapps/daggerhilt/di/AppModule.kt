@@ -19,8 +19,8 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 object AppModule {
 
-    @Provides
-    @Singleton
+    @Provides //tells Hilt how to construct SomeApi
+    @Singleton //ensures that the same instance is provided wherever needed across the app's lifecycle.
     fun provideApi(): SomeApi {
         return Retrofit.Builder()
             .baseUrl("https://someapi.com")

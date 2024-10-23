@@ -10,9 +10,8 @@ import dagger.hilt.components.SingletonComponent
 import javax.inject.Named
 import javax.inject.Singleton
 
-/**
- * @author Android Devs Academy (Ahmed Guedmioui)
- */
+//This module binds implementations of the Repository interface.
+
 @Module
 @InstallIn(SingletonComponent::class)
 abstract class RepositoryModule {

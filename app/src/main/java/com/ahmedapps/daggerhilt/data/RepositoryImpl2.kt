@@ -5,6 +5,7 @@ import com.ahmedapps.daggerhilt.R
 import com.ahmedapps.daggerhilt.domain.repository.Repository
 import javax.inject.Inject
 
+//The @Inject annotation tells Dagger to provide instances of these dependencies when RepositoryImpl2 is created.
 class RepositoryImpl2 @Inject constructor(
     private val api: SomeApi2,
     private val application: Application
